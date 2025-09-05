@@ -1,13 +1,13 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&multiline=true&repeat=false&width=435&lines=Shalom+%F0%9F%91%8B%2C;It's+BIEN+GLITCH" alt="Typing SVG" /></a></h1>
 
-<p align="center">
+<div class="grid cards" markdown>
 <!--   <p style="float:left"> -->
     <a href="https://git.io/streak-stats" style="width:45%"><img src="https://github-contributor-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true" style="height:200px;object-fit:cover" alt="GitHub Contributions"/></a>
 <!--   </p> -->
 <!--   <p style="float:right"> -->
     <a href="https://git.io/streak-stats" style="width:45%"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly" style="height:200px;object-fit:cover;" alt="GitHub Streak" /></a>
 <!--   </p> -->
-</p>
+</div>
 <br/>
 
 <!--START_SECTION:waka-->
