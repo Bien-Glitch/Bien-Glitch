@@ -2,10 +2,10 @@
 
 <p align="center">
 <!--   <p style="float:left"> -->
-    <a href="https://git.io/streak-stats"><img src="https://github-contributor-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true" style="width:45%" alt="GitHub Contributions"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true&card_width=500" height=200 align="center" alt="GitHub Contributions"/></a>
 <!--   </p> -->
 <!--   <p style="float:right"> -->
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly" style="width:45%;" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly&card_width=500" height=200 align="center" alt="GitHub Streak" /></a>
 <!--   </p> -->
 </p>
 <br/>
