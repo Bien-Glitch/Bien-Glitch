@@ -1,16 +1,12 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&multiline=true&repeat=false&width=435&lines=Shalom+%F0%9F%91%8B%2C;It's+BIEN+GLITCH" alt="Typing SVG" /></a></h1>
 
 <p align="center">
-<!--   <p style="float:left"> -->
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true&card_width=450" height=200 align="center" alt="GitHub Contributions"/></a>
-<!--   </p> -->
-<!--   <p style="float:right"> -->
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly&card_width=450" height=200 align="center" alt="GitHub Streak" /></a>
-<!--   </p> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=6&layout=donut" align="center" /></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=6&layout=donut" align="center" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly&card_width=450" height=200 align="center" alt="GitHub Streak" /></a>
 </p>
 <br/>
 
