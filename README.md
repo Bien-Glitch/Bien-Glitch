@@ -70,10 +70,13 @@ echo $bio->initName()
 ### 🚀 About Me
 <br/>
 
-     🔭 I'm a slave of CHRIST, performing the good works as GOD's workmanship in CHRIST.
-     
-     Work Experience: Details on my LinkedIn
-     Hobbies: ˗ˏˋ ✞ ˎˊ˗  ᴊᴇꜱᴜꜱ ᡣ𐭩 Bible Study, </> Programming, 🎧ྀི  Music, 🏃‍➡️ Running, ⚽ Football
+```
+🔭 I'm a slave of CHRIST, performing the good works as GOD's workmanship in CHRIST.
+
+Work Experience: Details on my LinkedIn
+Hobbies: ˗ˏˋ ✞ ˎˊ˗  ᴊᴇꜱᴜꜱ ᡣ𐭩 Bible Study, </> Programming, 🎧ྀི  Music, 🏃‍➡️ Running, ⚽ Football
+```
+
 <br/>
 
 ---
@@ -81,20 +84,20 @@ echo $bio->initName()
 
   ###### Original:
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+    <a href="https://sass-lang.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/></a>
+    <a href="http://php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" alt="php" width="45" height="45"/></a>
+    <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>
   </p>
 
   ###### Framework:
   <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="45" height="45"/>
+    <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="45" height="45"/></a>
+    <a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" alt="laravel" height="45"/></a>
+    <a href="https://codeigniter.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="45" height="45"/></a>
   </p>
 <br/>
 
@@ -103,11 +106,11 @@ echo $bio->initName()
 <br/>
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="45" height="45"/>      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
+    <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/></a>
+    <a href="https://www.jetbrains.com/phpstorm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="45" height="45"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+    <a href="https://getcomposer.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="45" height="45"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/></a>
 </p>
 <br/>
 
@@ -116,12 +119,12 @@ echo $bio->initName()
 <br/>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=6&layout=donut" style="height:200px" align="center" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true" style="height:200px" align="center" alt="GitHub Contributions"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=6&layout=donut" alt="lang-readme-stats" style="height:200px" align="center" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true" alt="contrib-readme-stats" style="height:200px" align="center"/></a>
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly" style="height:200px" align="center" style="width:100%" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bien-Glitch&theme=highcontrast&border_radius=5&mode=weekly" alt="streak-stats" style="height:200px" align="center" style="width:100%" /></a>
 </p>
 
 <!--
