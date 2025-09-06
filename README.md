@@ -61,6 +61,10 @@ echo $bio->initName()
     &nbsp;
     <a href="mailto:biennwinate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
 </p>
+<p align="center">
+    <a href="https://github.com/Xcella-ng"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/136995993?s=64&v=4?s=64&v=4?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d" /></a>
+    <a href="https://github.com/xhodos"><img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/219361042?s=64&v=4?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d" /></a>
+</p>
 
 ---
 ### 🚀 About Me
