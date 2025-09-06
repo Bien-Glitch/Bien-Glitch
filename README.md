@@ -46,8 +46,34 @@ echo $bio->initName()
     ->initStack()
     ->write();
 ```
-  
-<h2>🚀 &nbsp;Languages</h2>
+<br/>
+
+<p align="center">
+    <a href="https://web.facebook.com/bien.glitch/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/nwinate-bien-609ab9175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+    &nbsp;
+    <a href="https://www.instagram.com/bien_glitch"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" /></a>
+    &nbsp;
+    <a href="https://x.com/nwinate"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="30" /></a>
+    &nbsp;
+    <a href="https://www.npmjs.com/~bien-glitch"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" height="30" /></a>
+    &nbsp;
+    <a href="mailto:biennwinate@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a>
+</p>
+
+---
+### 🚀 About Me
+<br/>
+
+     🔭 I'm a slave of CHRIST, performing the good works as GOD's workmanship in CHRIST.
+     
+     Work Experience: Details on my LinkedIn
+     Hobbies: ˗ˏˋ ✞ ˎˊ˗  ᴊᴇꜱᴜꜱ ᡣ𐭩 Bible Study, </> Programming, 🎧ྀི  Music, 🏃‍➡️ Running, ⚽ Football
+<br/>
+
+---
+### </> &nbsp;Languages
 
   ###### Original:
   <p align="left">
@@ -68,7 +94,10 @@ echo $bio->initName()
   </p>
 <br/>
 
-<h2>⚙️ &nbsp;Tools</h2>
+---
+### ⚙️ &nbsp;Tools
+<br/>
+
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="45" height="45"/>
@@ -76,6 +105,10 @@ echo $bio->initName()
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="composer" width="45" height="45"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
 </p>
+<br/>
+
+---
+### 📊 &nbsp;GitHub Stats
 <br/>
 
 <p align="center">
