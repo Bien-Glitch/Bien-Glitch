@@ -122,7 +122,7 @@ Hobbies: ˗ˏˋ ✞ ˎˊ˗  ᴊᴇꜱᴜꜱ ᡣ𐭩 Bible Study, </> Programming
 <br/>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=6&layout=donut" alt="lang-readme-stats" style="height:200px" align="center" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bien-Glitch&theme=midnight-purple&langs_count=5&layout=donut" alt="lang-readme-stats" style="height:200px" align="center" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Bien-Glitch&theme=vision-friendly-dark&show_icons=true" alt="contrib-readme-stats" style="height:200px" align="center"/></a>
 </p>
 
